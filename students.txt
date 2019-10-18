@@ -1,0 +1,4 @@
+name english maths
+vinay 50 85
+kumar 45 56
+papa 65 87
